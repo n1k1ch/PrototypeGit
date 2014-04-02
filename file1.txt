@@ -1,1 +1,2 @@
-Here is the file for release 1
+Here is the file for release 1.
+Here is some fixes after release 1.
